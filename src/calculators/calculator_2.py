@@ -30,6 +30,6 @@ class Calculator2:
             return {
                 "data": {
                     "Calculator": 2,
-                    "Result": round(calculated_number, 2).item()
+                    "Result": round(calculated_number, 2)
                 }
             }
